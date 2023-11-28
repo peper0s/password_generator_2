@@ -1,5 +1,7 @@
 import random
 
+print('Это программа генерации паролней')
+
 password_keys = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 
 password_numbers = int(input("введите длину пароля"))
